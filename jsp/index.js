@@ -29,7 +29,7 @@ let content = {
     "experience": [
         { "description": "At Volvo Autonomous Solutions, I established deep recurrent neural networks-based error models to compensate simulation error of physics-based Volvo dynamics vehicle models." },
         { "description": "To reduce classification error in testers' trouble reporting work, I built intent classification models based on Sentence-BERT that can classify trouble reports, replace manual task allocation, and simplify trouble report workflow." },
-        { "description": "I was responsible for data visualization and predicted future sales in mainland China for main products. The experience equipped me with communication and teamwork skills" }
+        { "description": "I was responsible for data visualization and predicted future sales in mainland China for main products. The experience equipped me with communication and teamwork skills." }
     ],
     "abilities": [
         { "skill": "Javascript", "score": 4 },
