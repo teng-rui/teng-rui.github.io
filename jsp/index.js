@@ -306,7 +306,6 @@ window.onload = function () {
     height_array.push(getDistance(experience));
     height_array.push(getDistance(skills));
     height_array.push(getDistance(projects));
-    console.log(height_array);
 
     messageBtn = document.getElementById("send-message-btn");
     messageForm = document.getElementById("message-form");
